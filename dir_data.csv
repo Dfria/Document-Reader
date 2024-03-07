@@ -1,0 +1,3 @@
+policy-number,primary-insured,secondary-insured,mailing-address,transaction-type,insurer,effective-date,expiration-date,premium,policy-fee,sl-tax,stamping-fee,total-premium
+ASR1234567,WILL & JANICE SMITH,,"1234 5TH ST. SAN JOSE, CA 94088 US",New Business,INDIAN HARBOR INSURANCE COMPANY,11/16/2023,11/16/2024,609.0,110.0,21.57,1.29,741.86
+ASR4567890,CROSSROADS VILLAGE,JORDAN DALLAS & DYLAN FRIAS,"PO BOX 12345 SANTA ANA, CA 92711 US",Renewal,INDIAN HARBOR INSURANCE COMPANY,11/27/2023,11/27/2024,897.0,300.0,185.91,11.15,394.06
