@@ -8,10 +8,6 @@ import csv
 
 nlp = spacy.load("en_core_web_sm")
 
-# ASR3481516.pdf
-# ASR3477195.pdf
-# ASR3498286.pdf
-
 # =============================== extract_dir(dir_path): Returns Panda's DataFrame of these columns =============================== 
     # policy-number: policy_number
     # primary-insured: primary_insured
