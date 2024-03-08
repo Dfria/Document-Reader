@@ -21,10 +21,10 @@ Document-Reader is a Python project showcasing my skills in extracting data from
 - The script supports both individual and business names as insured parties.
 - Extracted data is organized into a Pandas DataFrame, and a function `to_csv(df)` exports it to a CSV file.
 
-## Example Data Columns
+## Extracted Columns
 - **policy-number**: Policy number
-- **primary-insured**: Primary insured party
-- **secondary-insured**: Secondary insured party (if applicable)
+- **primary-insured**: Primary insured
+- **secondary-insured**: Secondary insured
 - **mailing-address**: Mailing address
 - **transaction-type**: Type of transaction (e.g., New Business)
 - **insurer**: Insurance provider
