@@ -45,5 +45,6 @@ Document-Reader is a Python project showcasing my skills in extracting data from
 ## Notes
 - This project serves as a demonstration of Python skills in data extraction and manipulation.
 - The script assumes a specific format for the "declarations page" and may require adjustments for different document layouts.
+- Given an entire batch of 70+ documents within the `Dallas Flood` directory folder, the script would go through all of it.
 
 Feel free to reach out for any further clarifications or information.
