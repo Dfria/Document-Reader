@@ -20,8 +20,12 @@ Document-Reader is a Python project showcasing my skills in extracting data from
   ![image](https://github.com/Dfria/Document-Reader/assets/90019629/4d6a83e3-956a-4131-842e-a8b0eecb8bf5)
 
 - Extracted text is parsed to obtain policy details, primary/secondary insured, dates, insurer, and premium information.
+  ![image](https://github.com/Dfria/Document-Reader/assets/90019629/8c69aab4-86af-43b4-b88a-3b5e4b843f95)
+
 - The script supports both individual and business names as insured parties, distinguished by a Natural Language Processor.
 - Extracted data is organized into a Pandas DataFrame, and a function `to_csv(df)` exports it to a CSV file.
+  ![image](https://github.com/Dfria/Document-Reader/assets/90019629/42721470-5a9f-4938-ad7e-f7e6a2ab685a)
+
 
 ## Extracted Columns
 - **policy-number**: Policy number
